@@ -1,2 +1,2 @@
-# Instruction
-System responsible for managing Bible schools
+# Django Access Control
+System for access control using Django Rest Framework
