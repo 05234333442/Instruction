@@ -48,19 +48,6 @@ deactivate
 workon xxx
 rmvirtualenv
 
-Setup Eclipse: Python
----------------------
-
-Create a new PyDev Project
-File -> New -> PyDev Project
-A window will popup asking about the project details. Alternatively if you have already created a project go to
-Project -> Properties
-Click on "Click here to configure an interpreter no listed"
-Click the New button
-A new window will popup
-Interpreter name: VIRTUALENVNAME (or whatever you like)
-Interpreter executable: ~.virtualenvs/VIRTUALENVNAME/bin/python (or your custom location to the virtualenv/bin/python)
-
 Ambiente de Desenvolvimento
 ---------------------------
 
